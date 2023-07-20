@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img alt="GIF" src="waving-hand.gif" width="5%" />, I'm Sudhanshu Kumar</h1>
-<h3 align="center">A Competitive Programmer, a Web Developer and a Software Developer. </h3>
+<h3 align="center">A Competitive Programmer, a java full-stack developer and a Software Developer. </h3>
 <hr>
 
 <img align="right" alt="programmer" width="350" src="programmer.gif">
