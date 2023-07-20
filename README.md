@@ -8,7 +8,7 @@
 
 - <img alt="GIF" src="Developer.gif" width="27" /> &nbsp; I’m currently learning **Mongodb, Node.js**
 
-- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring **new Algorithms**
+- <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring and learning **new Algorithms**
 
 - <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS**
 
@@ -29,7 +29,7 @@
 <h3 align="left">My coding profiles:</h3>
 <p align="center">
 <a href="https://www.codechef.com/users/sudhanshu2829"><img alt="codechef" width="7%" style="padding:5px" src="codechef.png"></a>
-<a href="https://www.hackerrank.com/parvezahmed_0947"><img alt="hackerrank" width="7%" style="padding:5px" src="hackerrank.png"/></a>
+<a href="https://www.hackerrank.com/2020543227_sudh1?hr_r=1"><img alt="hackerrank" width="7%" style="padding:5px" src="hackerrank.png"/></a>
 <a href="https://auth.geeksforgeeks.org/user/sudhanshukumar15678/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img alt="gfg" width="7%" style="padding:5px" src="gfg.png"/></a>
 </p>
 
@@ -43,8 +43,8 @@
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &ensp;
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> &ensp;
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> &ensp;
-  <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://raw.githubusercontent.com/Sudhanshu2829/Sudhanshu2829/84763877/5d65c408-5842-45b8-b2c5-62cc96862e64" alt="springboot" width="50" height="50"/> </a> &ensp;
-    <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Sudhanshu2829/Sudhanshu2829/84763877/5d65c408-5842-45b8-b2c5-62cc96862e64" alt="angular" width="50" height="50"/> </a> &ensp;
+  <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="springboot.png" alt="springboot" width="50" height="50"/> </a> &ensp;
+    <a href="https://angular.io/" target="_blank"> <img src="angular.png" alt="angular" width="50" height="50"/> </a> &ensp;
 
 
 </p>
