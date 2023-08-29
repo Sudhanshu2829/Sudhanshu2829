@@ -10,7 +10,7 @@
 
 - <img alt="GIF" src="hyperkitty.gif" width="22" /> &nbsp;&nbsp; I like exploring and learning **new Algorithms**
 
-- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, Python, Data Structures and Algo., HTML, CSS**
+- <img alt="GIF" src="message.gif" width="27" /> &nbsp; Ask me about **Java, PHP, Python, Data Structures and Algo., HTML, CSS**
 
 - <img alt="GIF" src="letterbox.gif" width="27" /> &nbsp; How to reach me **<a href="https://www.linkedin.com/in/sudhanshu-kumar-b5998b214/"> LinkedIn</a>**
 
@@ -36,6 +36,7 @@
 <h3 align="left">My Tech Stack: </h3>
 <p align="center"> 
   	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>&ensp;
+	<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&ensp;
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> &ensp;
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" /> </a> &ensp;
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&ensp;
